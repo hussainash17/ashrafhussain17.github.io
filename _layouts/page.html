@@ -1,28 +1,31 @@
 ---
-layout: default
+layout: base
 ---
 
-<div class="page clearfix" post>
-    <div class="left">
-        <h1>{{page.title}}</h1>
-        <hr>
-        {{content}}
-    </div>
-    <button class="anchor"><i class="fa fa-anchor"></i></button>
-    <div class="right">
-        <div class="wrap">
+{% include header.html type="page" %}
 
-            <!-- Content -->
-            <div class="side content">
-                <div>
-                    Content
-                </div>
-                <ul id="content-side" class="content-ul">
-                </ul>
-            </div>
-            <!-- 其他div框放到这里 -->
-            <!-- <div class="side">bbbb</div> -->
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
+  <div class="row">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+      {% if page.before-content %}
+        <div class="before-content">
+          {% for file in page.before-content %}
+            {% include {{ file }} %}
+          {% endfor %}
         </div>
+      {% endif %}
+
+      {{ content }}
+
+      {% if page.after-content %}
+        <div class="after-content">
+          {% for file in page.after-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% include comments.html %}
     </div>
+  </div>
 </div>
-<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>

@@ -16,9 +16,7 @@ author: Ashraf Hussain
 navbar-links:
   About Me: "aboutme"
   Contact: "contact"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Tags: "tags"
   Author's home: "https://ashrafhussain.netlify.com"
 
 # --- Logo --- #

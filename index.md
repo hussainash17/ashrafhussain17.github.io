@@ -57,17 +57,7 @@ We do our best in my lab to keep our *one-slide-per-paper* presentation updated 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4kV6uojsYwbTMxhzTGP5k_9wNV2kZtR6OHGm0bT-ayrUnoNFiV-kK_vBtfJdSrsHQfMlmWelrJQ-p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Contact
 
-```
-TU Delft - EWI/ST/WIS
-PO Box 5031
-2600 GA Delft
-The Netherlands
-
-Office: Van Mourik Broekmanweg 6, East Wing 04.100
-Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
-```
 
 ## Current members of my lab
 - David Maxwell (postdoc, since 03/2020)

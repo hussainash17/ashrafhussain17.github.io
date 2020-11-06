@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  Associate Professor
-subtitle: Web Information Systems, TU Delft
+layout: home
+title:  Blogs and Twitter Posts
+subtitle: Web Technologies
 ---
 
 ## News

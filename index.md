@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  Associate Professor
 subtitle: Web Information Systems, TU Delft
 ---

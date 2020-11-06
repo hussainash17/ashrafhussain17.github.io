@@ -14,7 +14,7 @@ subtitle: Web Information Systems, TU Delft
 
 <p>
  <a class="twitter-timeline"
- href="https://twitter.com/CharlotteHase"
+ href="https://twitter.com/deno_land"
  data-widget-id="340639437736255489"
  data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@CharlotteHase)</a>
  <script>

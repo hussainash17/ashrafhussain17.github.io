@@ -2,7 +2,7 @@
 layout: post
 title: How I write HTTP services after eight years.
 subtitle: HTTP server by Mat Ryer
-cover-img: /assets/img/download.pn
+cover-img: /assets/img/download.png
 share-img: /assets/img/pointer_in_go.png
 tags: [Go, Golang, Server]
 ---

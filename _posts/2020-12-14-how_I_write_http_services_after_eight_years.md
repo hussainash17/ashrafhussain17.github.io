@@ -3,6 +3,7 @@ layout: post
 title: How I write HTTP services after eight years.
 subtitle: HTTP server by Mat Ryer
 cover-img: /assets/img/download.pn
+share-img: /assets/img/pointer_in_go.png
 tags: [Go, Golang, Server]
 ---
 
@@ -35,7 +36,7 @@ func (s *server) routes() {
 }
 ~~~
 
-This is handy because most code maintenance starts with a URL and an error report — so one glance at ~~~routes.go~~~ will direct us where to look.
+This is handy because most code maintenance starts with a URL and an error report — so one glance at routes.go will direct us where to look.
 
 **Handlers hang off the server**
 My HTTP handlers hang off the server:

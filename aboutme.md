@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Journey with tech
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Hi Everyone.It's Ashraf. Welcome to my github profile.
+### Currently I am a 4th year student of Dept. of CSE, University of Dhaka.I am trying to be a master in Web technologies.I love experimenting with new technologies and building projects.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### - 🔭 I have already learned Basic C,Java as well as Python and master in NodeJs,Typescript, Go(Golang) and React.
+#### - 🔭 Currently I'm learning Microservice Architecture along with Docker and Kubernetes.
+#### - 🌱 I’m also currently doing my thesis on Data Mining.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

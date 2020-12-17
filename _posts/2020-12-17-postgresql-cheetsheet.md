@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PostgreSQL cheetsheet commans.
-subtitle: All the commands of pql
-cover-img: /assets/img/hello_world.jpeg
-share-img: /assets/img/psql.png
+title: PostgreSQL cheetsheet commands.
+subtitle: All the commands of PSQL
+cover-img: /assets/img/psql.png
+share-img: /assets/img/hello_world.jpeg
 tags: [PostgreSQL, PSQL, Commands]
 ---
 

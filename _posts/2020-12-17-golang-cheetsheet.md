@@ -2,9 +2,11 @@
 layout: post
 title: Basic Go(Golang) Cheetsheet
 subtitle: HTTP server by Mat Ryer
+cover-img: /assets/img/path.jpg
 share-img: /assets/img/pointer_in_go.png
 tags: [Go, Golang]
 ---
+
 
 # Go Cheat Sheet
 
